@@ -1,0 +1,12 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(158, 36%, 37%);
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
